@@ -1,4 +1,4 @@
-" ~/.vim/plugin/ssheader.vim
+" ~/.vim/plugin/ss_header.vim
 " Plugin para criar e actualizar o cabeçalho Ser Superior (SSHeader)
 
 if exists('g:loaded_ssheader')
